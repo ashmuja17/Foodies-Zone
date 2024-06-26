@@ -1,0 +1,31 @@
+# 💫 About Me:
+Here's a strong README introduction for your GitHub profile:<br><br>---<br><br>## About Me<br><br>### Hi, I'm Mohideen Mujahith! 👋<br><br>I'm a Full Stack Developer with an internship experience at WhyTap. I thrive in challenging environments and am currently dedicating my efforts to Adbot, where I'm looking to collaborate and make a significant impact.<br><br>### What I'm Currently Working On<br><br>I'm currently working on various projects at Adbot, focusing on building robust, scalable, and user-friendly applications. My work involves both frontend and backend development, utilizing a range of technologies to deliver high-quality solutions.<br><br>### Looking to Collaborate On<br><br>I'm open to collaborating on projects that involve innovative web applications, complex backend systems, or any project that requires a dedicated and passionate developer. If you have an exciting project or idea, feel free to reach out!<br><br>### What I Need Help With<br><br>- **Mentorship and Guidance:** I'm always looking to learn from more experienced developers and mentors.<br>- **Open Source Contributions:** I'm interested in contributing to open-source projects and would love to be a part of a supportive community.<br><br>### Currently Learning<br><br>I'm currently enhancing my skills in:<br>- Advanced JavaScript and modern frameworks like React and Vue.js<br>- Backend technologies such as Node.js, Express, and databases like MongoDB and SQL<br>- DevOps practices and cloud services to improve my deployment and scalability knowledge<br><br>### Ask Me About<br><br>- Full Stack Development<br>- Internship experiences and what I learned at WhyTap<br>- My journey into tech and how I stay motivated<br><br>### Fun Fact<br><br>I love tackling complex problems and coming up with efficient solutions. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or playing chess.<br><br>---<br><br>Feel free to customize this template further to better fit your personality and experiences!
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mujahith Ashraf Ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mujahith Ashraf ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohideen-mujahith-a-a304121a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohideen Mujahith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohideen Mujahith&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohideen Mujahith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mohideen Mujahith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mohideen Mujahith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohideen Mujahith&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mohideen Mujahith) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Mujahith Ashraf ali) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
